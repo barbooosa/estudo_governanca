@@ -1,0 +1,13 @@
+gestao de processos e projetos
+passar para superiores as demandas e projetos e organizar hierarquia entre eles, alem de ter um modelo de trabalho bem definido
+
+
+alinhamento de TI
+Deve ser alinhado entre os departamentos, que a TI deve ter uma participaçã ativa nas decisões estratégias, para se alinhar melhor as ideias da TI com as estratégias da empresa, isso fará com que os projetos e demandas sejão alinhada ao desejo da empresa e como a empresa encherga o mercado e o problema a ser resolvido.
+
+gerenciamento de serviços de TI
+Deve se ter uma boa gestão de serviços de TI, para que a empresa possa se organizar melhor e ter um melhor desempenho, assim como ter uma melhor gestão de projetos e processos. Para isso, metodologias ágeis no dia a dia da empresa e entregas de demandas de forma organizada, podem fazer uma grande diferença no desempenho da empresa.
+
+
+Nivel de maturidade 
+Artesanal, pois não possui processos definidos, um dos principais motivos dessa afirmação é a forma com que estão sofrendo com demandas e projetos, já que ao que tudo indica, nao possuem um gestor e nao trabalham nas hierarquias nos projetos. Com um alinhamento melhor de projeto e, consequentemente, um nível de maturidade maior, a empresa pode melhorar a gestão de projetos e processos.
