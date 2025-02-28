@@ -1,0 +1,45 @@
+clinica de piscicologia
+cadastrar, agendar e fazer relatório (durante a consulta)
+
+
+identificação de riscos
+falha de segurança - risco tecnico/risco organizacional 
+usabilidade - risco tecnico
+atrasos na entrega - risco de gerenciamento de projetos
+baixa adoção - risco externo 
+conformidade regulatoria - risco organizacional 
+
+
+analise qualitativa
+falha de segurança - alto
+conformidade regulatoria - alto
+usabilidade - medio
+atrasos na entrega - medio
+baixa adoção - baixo
+
+
+
+analise quantitativa 
+falha de segurança - pode gerar processos por vazamento de dados sensíveis (estimativa alta)
+
+usabilidade - impacta diretamente no sucesso do sistema(caso seja positivo pode gerar muito lucro)
+
+atrasos na entrega - pode gerar desistência de pacientes na clinica (afeta diretamente a receita da clinica)
+
+baixa adoção - afeta o sucesso do sistema (pode gerar um grande prejuizo)
+
+conformidade regulatoria - afeta a credibilidade do sistema(consequentemente o lucro)
+
+
+
+
+estrategias de respostas
+falha de segurança - evitar (implementar boas praticas de segurança e verificação de acessos ao sistema) 
+
+usabilidade - mitigar (desenvolver o sistema e fazer algumas alterações, se necessário para melhorar a usabilidade)
+
+atrasos na entrega - evitar (ter uma melhor organização de entregas, usar metodologias ágeis em todos os setores para priorizar a entrega rápida e efetiva de demandas, ou necessidades )
+
+baixa adoção - aceitar (levar em conta que existe um risco de não se ter uma grande taxa de usuários e trabalhar com essa possibilidade no sistema)
+
+conformidade regulatoria - evitar (fazer com que os processos sejam claros e que possam seguir as diretrizes de cada departamento, evitando problemas futuros e, organinzando melhor o sistema)
